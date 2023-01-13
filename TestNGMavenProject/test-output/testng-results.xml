@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="209" started-at="2022-11-13T12:06:29 IST" finished-at="2022-11-13T12:06:29 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="209" started-at="2022-11-13T12:06:29 IST" finished-at="2022-11-13T12:06:29 IST">
+      <class name="Bookings.BookingFlights">
+        <test-method status="PASS" signature="BookFlight_RoundTrip_TestCase1()[pri:0, instance:Bookings.BookingFlights@6950e31]" name="BookFlight_RoundTrip_TestCase1" duration-ms="24" started-at="2022-11-13T12:06:29 IST" finished-at="2022-11-13T12:06:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookFlight_RoundTrip_TestCase1 -->
+        <test-method status="PASS" signature="BookFlight_RoundTrip_TestCase2()[pri:0, instance:Bookings.BookingFlights@6950e31]" name="BookFlight_RoundTrip_TestCase2" duration-ms="9" started-at="2022-11-13T12:06:29 IST" finished-at="2022-11-13T12:06:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookFlight_RoundTrip_TestCase2 -->
+        <test-method status="PASS" signature="BookFlight_RoundTrip_TestCase3()[pri:0, instance:Bookings.BookingFlights@6950e31]" name="BookFlight_RoundTrip_TestCase3" duration-ms="11" started-at="2022-11-13T12:06:29 IST" finished-at="2022-11-13T12:06:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookFlight_RoundTrip_TestCase3 -->
+        <test-method status="PASS" signature="BookFlight_RoundTrip_TestCase4()[pri:0, instance:Bookings.BookingFlights@6950e31]" name="BookFlight_RoundTrip_TestCase4" duration-ms="14" started-at="2022-11-13T12:06:29 IST" finished-at="2022-11-13T12:06:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookFlight_RoundTrip_TestCase4 -->
+      </class> <!-- Bookings.BookingFlights -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
